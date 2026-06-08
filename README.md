@@ -16,7 +16,7 @@ El objetivo principal es transformar los datos transaccionales de la cartera en 
 * `/dataset`: Archivos fuente de la cartera y pagos.
 * `SQL_analitico.ipynb`: Notebook principal de cálculo de riesgos y visualización.
 * `consultas_calidad.ipynb`: Notebook de validación y reclasificación de mora.
-* `Tarea 3.pdf` & `Tarea 4.pdf`: Documentación técnica y estratégica.
+* `insight accionables.pdf` & `uso de IA.pdf`: Documentación técnica y estratégica.
 
 ## 📊 Principales Hallazgos
 1. **Concentración Geográfica (Uruguay):** Ticket promedio de mora significativamente superior a otros mercados.
