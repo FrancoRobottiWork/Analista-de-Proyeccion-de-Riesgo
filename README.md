@@ -5,7 +5,7 @@ Este repositorio contiene el análisis de cartera y la evaluación de riesgos cr
 ## Descripción del Proyecto
 El objetivo principal es transformar los datos transaccionales de la cartera en insights de negocio. A través de la carga y procesamiento de datasets, se ha logrado reclasificar estados de mora, analizar el impacto geográfico del riesgo y segmentar el comportamiento de los clientes para mejorar la toma de decisiones.
 
-## 🛠 Tecnologías Utilizadas
+## Tecnologías Utilizadas
 * Python: Procesamiento de datos y manipulación de DataFrames.
 * Pandas: Limpieza y estructuración de datos.
 * DuckDB: Motor SQL integrado para consultas analíticas de alto rendimiento.
