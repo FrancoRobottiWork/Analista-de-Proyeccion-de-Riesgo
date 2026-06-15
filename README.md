@@ -12,6 +12,8 @@ El objetivo principal es transformar los datos transaccionales de la cartera en 
 * Matplotlib / Seaborn: Visualización de datos.
 
 ## 📂 Estructura del Repositorio
+
+```text
 ANALISTA-DE-PROYECCION-DE-RIESGO/
 ├── data/raw/              # Archivos fuente de la cartera y pagos.
 ├── docs/                  # Documentación técnica y estratégica (PDFs).
@@ -20,6 +22,7 @@ ANALISTA-DE-PROYECCION-DE-RIESGO/
 │   └── 02_sql_analitico.ipynb
 ├── reports/figures/       # Visualizaciones finales y reportes.
 └── README.md
+```
 
 ## 📊 Principales Hallazgos
 1. Concentración Geográfica (Uruguay): Ticket promedio de mora significativamente superior a otros mercados.
