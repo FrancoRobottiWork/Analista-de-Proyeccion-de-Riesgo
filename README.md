@@ -18,6 +18,7 @@ ANALISTA-DE-PROYECCION-DE-RIESGO/
 ├── data/raw/              # Archivos fuente de la cartera y pagos.
 ├── docs/                  # Documentación técnica y estratégica (PDFs).
 ├── notebooks/             # Notebooks de análisis y validación.
+    ├── 00_analisis_exploratorio.ipynb
 │   ├── 01_calidad_datos.ipynb
 │   └── 02_sql_analitico.ipynb
 ├── reports/figures/       # Visualizaciones finales y reportes.
