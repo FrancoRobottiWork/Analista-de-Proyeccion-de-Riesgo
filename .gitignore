@@ -1,0 +1,12 @@
+# --- Entornos y dependencias ---
+venv/
+.env
+.venv/
+env/
+__pycache__/
+
+# --- Jupyter Notebooks y archivos de sistema ---
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+*.pyc
